@@ -1,7 +1,6 @@
 library date_formatted_2024;
 
-
-extension on DateTime {
+extension DateFormateExtension on DateTime {
   String formatToDDMonthYYYY() {
     String date =
         "${_GetInProper.data[day]}/${_GetInProper.month[month]}/$year";

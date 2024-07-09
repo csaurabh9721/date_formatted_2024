@@ -1,6 +1,6 @@
 name: date_formatted_2024
 description: "A Dart package providing various extensions on DateTime for easy and flexible date formatting."
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/csaurabh9721/date_formatted_2024.git
 
 environment:
